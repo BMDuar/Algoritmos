@@ -1,2 +1,2 @@
 # Algoritmos
-Repositorio para a aula de Algoritmos Fatec
+Repositório para a aula de Algoritmos Fatec
